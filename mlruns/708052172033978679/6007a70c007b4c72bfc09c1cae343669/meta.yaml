@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/praxis/Term%202/mlops/end%20to%20end%20mlops/end_to_end_mlops_project/End_to_End_MLops/mlruns/708052172033978679/6007a70c007b4c72bfc09c1cae343669/artifacts
+end_time: 1704975773305
+entry_point_name: ''
+experiment_id: '708052172033978679'
+lifecycle_stage: active
+run_id: 6007a70c007b4c72bfc09c1cae343669
+run_name: Subset_2_Gradient Boosting
+run_uuid: 6007a70c007b4c72bfc09c1cae343669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704975768002
+status: 3
+tags: []
+user_id: hp
