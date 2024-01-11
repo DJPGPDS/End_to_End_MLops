@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/praxis/Term%202/mlops/end%20to%20end%20mlops/end_to_end_mlops_project/End_to_End_MLops/mlruns/708052172033978679/fbded770281c41c692d2ea3a20e69890/artifacts
+end_time: 1704975784043
+entry_point_name: ''
+experiment_id: '708052172033978679'
+lifecycle_stage: active
+run_id: fbded770281c41c692d2ea3a20e69890
+run_name: Subset_3_Decision Tree
+run_uuid: fbded770281c41c692d2ea3a20e69890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704975778505
+status: 3
+tags: []
+user_id: hp
