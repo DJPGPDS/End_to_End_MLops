@@ -14,7 +14,7 @@ st.header('App for user predictions for Scooter Rental platform')
 
 def user_input_features():
     hr = st.sidebar.slider('Hour of Day', 0, 24, 12)
-    weather = st.sidebar.selectbox('Weather', ['clear', 'cloudy', 'light snow/rain'])
+    weather = st.sidebar.radio('Weather', ['clear', 'cloudy', 'light snow/rain'])
     temperature = st.sidebar.slider("Temp", 30, 140, 60)
     relative_humidity = st.sidebar.slider('Humidity', 0, 100, 30)
     windspeed = st.sidebar.slider('Windspeed', 0, 70, 10)
@@ -31,13 +31,22 @@ def user_input_features():
 
 df = user_input_features()
 
-st.write(df)
+# st.write(df)
 
 df_tf = pre.transform(df)
 
 log_prediction = model.predict(df_tf)
 
 result = int(2.71828**log_prediction)
+
+
+if st.checkbox('Show dataset'):
+    st.write('### Scooter rental dataset')
+    if st.checkbox('Show transformed dataset'):
+        st.write(df_tf)
+    elif st.checkbox('Show original dataset'):
+        st.write(df)
+        
 
 st.subheader('Users Prediction')
 st.write(result)
