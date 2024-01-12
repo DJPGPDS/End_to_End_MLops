@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aed456a83b3f4aa5a8361526fd7e62c2/artifacts
+end_time: 1705055103556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aed456a83b3f4aa5a8361526fd7e62c2
+run_name: chill-midge-159
+run_uuid: aed456a83b3f4aa5a8361526fd7e62c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055103492
+status: 3
+tags: []
+user_id: dj

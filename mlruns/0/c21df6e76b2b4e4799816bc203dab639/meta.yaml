@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c21df6e76b2b4e4799816bc203dab639/artifacts
+end_time: 1705055087759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c21df6e76b2b4e4799816bc203dab639
+run_name: charming-newt-388
+run_uuid: c21df6e76b2b4e4799816bc203dab639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055087658
+status: 3
+tags: []
+user_id: dj

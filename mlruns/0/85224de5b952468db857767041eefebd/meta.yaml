@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/85224de5b952468db857767041eefebd/artifacts
+end_time: 1705055103345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85224de5b952468db857767041eefebd
+run_name: painted-sponge-771
+run_uuid: 85224de5b952468db857767041eefebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055103286
+status: 3
+tags: []
+user_id: dj

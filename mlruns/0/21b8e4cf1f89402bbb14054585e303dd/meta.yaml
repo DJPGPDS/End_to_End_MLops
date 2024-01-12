@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/21b8e4cf1f89402bbb14054585e303dd/artifacts
+end_time: 1705055071686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21b8e4cf1f89402bbb14054585e303dd
+run_name: rumbling-mouse-750
+run_uuid: 21b8e4cf1f89402bbb14054585e303dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055071640
+status: 3
+tags: []
+user_id: dj

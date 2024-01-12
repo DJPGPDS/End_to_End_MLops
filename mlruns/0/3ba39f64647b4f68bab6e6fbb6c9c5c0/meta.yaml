@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3ba39f64647b4f68bab6e6fbb6c9c5c0/artifacts
+end_time: 1705055101340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ba39f64647b4f68bab6e6fbb6c9c5c0
+run_name: amusing-tern-194
+run_uuid: 3ba39f64647b4f68bab6e6fbb6c9c5c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055101282
+status: 3
+tags: []
+user_id: dj

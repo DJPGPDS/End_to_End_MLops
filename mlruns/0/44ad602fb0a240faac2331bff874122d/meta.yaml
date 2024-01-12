@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/44ad602fb0a240faac2331bff874122d/artifacts
+end_time: 1705055090305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44ad602fb0a240faac2331bff874122d
+run_name: gifted-hare-498
+run_uuid: 44ad602fb0a240faac2331bff874122d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055090221
+status: 3
+tags: []
+user_id: dj

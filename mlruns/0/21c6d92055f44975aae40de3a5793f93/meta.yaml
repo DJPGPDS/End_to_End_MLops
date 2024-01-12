@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/21c6d92055f44975aae40de3a5793f93/artifacts
+end_time: 1705055076565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21c6d92055f44975aae40de3a5793f93
+run_name: powerful-roo-163
+run_uuid: 21c6d92055f44975aae40de3a5793f93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055076468
+status: 3
+tags: []
+user_id: dj

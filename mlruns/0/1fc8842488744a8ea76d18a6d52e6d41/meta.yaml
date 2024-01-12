@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1fc8842488744a8ea76d18a6d52e6d41/artifacts
+end_time: 1705055078974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fc8842488744a8ea76d18a6d52e6d41
+run_name: fearless-donkey-267
+run_uuid: 1fc8842488744a8ea76d18a6d52e6d41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055078897
+status: 3
+tags: []
+user_id: dj

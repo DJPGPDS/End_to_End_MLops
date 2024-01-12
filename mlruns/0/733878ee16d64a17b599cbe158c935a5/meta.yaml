@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/733878ee16d64a17b599cbe158c935a5/artifacts
+end_time: 1705055103419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 733878ee16d64a17b599cbe158c935a5
+run_name: clean-yak-813
+run_uuid: 733878ee16d64a17b599cbe158c935a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055103350
+status: 3
+tags: []
+user_id: dj

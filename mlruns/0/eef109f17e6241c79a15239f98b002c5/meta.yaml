@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eef109f17e6241c79a15239f98b002c5/artifacts
+end_time: 1705055070902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eef109f17e6241c79a15239f98b002c5
+run_name: selective-mole-815
+run_uuid: eef109f17e6241c79a15239f98b002c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055070866
+status: 3
+tags: []
+user_id: dj

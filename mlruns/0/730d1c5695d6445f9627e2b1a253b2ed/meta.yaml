@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/730d1c5695d6445f9627e2b1a253b2ed/artifacts
+end_time: 1705055074296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 730d1c5695d6445f9627e2b1a253b2ed
+run_name: hilarious-gnu-876
+run_uuid: 730d1c5695d6445f9627e2b1a253b2ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055074229
+status: 3
+tags: []
+user_id: dj

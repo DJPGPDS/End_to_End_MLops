@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5667ee5dc7624234a6b06938994b11af/artifacts
+end_time: 1705055074462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5667ee5dc7624234a6b06938994b11af
+run_name: useful-lark-911
+run_uuid: 5667ee5dc7624234a6b06938994b11af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055074389
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8455b8aabef74e87826f1dab163cffa4/artifacts
+end_time: 1705055096601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8455b8aabef74e87826f1dab163cffa4
+run_name: hilarious-seal-278
+run_uuid: 8455b8aabef74e87826f1dab163cffa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055096536
+status: 3
+tags: []
+user_id: dj

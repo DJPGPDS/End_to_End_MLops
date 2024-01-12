@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0db857cc2d0e48ca914239616895e67b/artifacts
+end_time: 1705055100301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0db857cc2d0e48ca914239616895e67b
+run_name: burly-rat-991
+run_uuid: 0db857cc2d0e48ca914239616895e67b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055100224
+status: 3
+tags: []
+user_id: dj

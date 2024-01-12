@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/86c506f36b3a4f3681a4a8e82a4f19f9/artifacts
+end_time: 1705055085952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86c506f36b3a4f3681a4a8e82a4f19f9
+run_name: nimble-vole-674
+run_uuid: 86c506f36b3a4f3681a4a8e82a4f19f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055085855
+status: 3
+tags: []
+user_id: dj

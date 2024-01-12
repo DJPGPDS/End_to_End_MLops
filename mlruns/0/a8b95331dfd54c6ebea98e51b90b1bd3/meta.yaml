@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a8b95331dfd54c6ebea98e51b90b1bd3/artifacts
+end_time: 1705055095730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8b95331dfd54c6ebea98e51b90b1bd3
+run_name: upbeat-dog-560
+run_uuid: a8b95331dfd54c6ebea98e51b90b1bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055095670
+status: 3
+tags: []
+user_id: dj

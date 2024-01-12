@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0c9c8a871bfa430d905f037fe75aeeda/artifacts
+end_time: 1705055096977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c9c8a871bfa430d905f037fe75aeeda
+run_name: skillful-dove-828
+run_uuid: 0c9c8a871bfa430d905f037fe75aeeda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055096907
+status: 3
+tags: []
+user_id: dj

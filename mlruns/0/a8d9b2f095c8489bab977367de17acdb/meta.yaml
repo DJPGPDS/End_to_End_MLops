@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a8d9b2f095c8489bab977367de17acdb/artifacts
+end_time: 1705055095206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8d9b2f095c8489bab977367de17acdb
+run_name: agreeable-conch-571
+run_uuid: a8d9b2f095c8489bab977367de17acdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055095146
+status: 3
+tags: []
+user_id: dj

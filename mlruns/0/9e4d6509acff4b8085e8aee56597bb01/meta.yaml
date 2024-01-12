@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9e4d6509acff4b8085e8aee56597bb01/artifacts
+end_time: 1705055091115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e4d6509acff4b8085e8aee56597bb01
+run_name: lyrical-chimp-614
+run_uuid: 9e4d6509acff4b8085e8aee56597bb01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055091058
+status: 3
+tags: []
+user_id: dj

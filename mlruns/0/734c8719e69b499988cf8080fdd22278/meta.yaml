@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/734c8719e69b499988cf8080fdd22278/artifacts
+end_time: 1705055099340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 734c8719e69b499988cf8080fdd22278
+run_name: intrigued-quail-146
+run_uuid: 734c8719e69b499988cf8080fdd22278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055099281
+status: 3
+tags: []
+user_id: dj

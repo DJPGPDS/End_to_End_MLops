@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d4f3c485ad9b43b882a2b4890780c9a0/artifacts
+end_time: 1705055086116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4f3c485ad9b43b882a2b4890780c9a0
+run_name: capable-ray-160
+run_uuid: d4f3c485ad9b43b882a2b4890780c9a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055086042
+status: 3
+tags: []
+user_id: dj

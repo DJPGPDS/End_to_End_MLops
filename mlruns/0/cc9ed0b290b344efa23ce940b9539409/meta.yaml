@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cc9ed0b290b344efa23ce940b9539409/artifacts
+end_time: 1705055103141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc9ed0b290b344efa23ce940b9539409
+run_name: luxuriant-foal-564
+run_uuid: cc9ed0b290b344efa23ce940b9539409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055103103
+status: 3
+tags: []
+user_id: dj

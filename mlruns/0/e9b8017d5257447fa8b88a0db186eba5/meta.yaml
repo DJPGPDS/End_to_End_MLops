@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e9b8017d5257447fa8b88a0db186eba5/artifacts
+end_time: 1705055073589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9b8017d5257447fa8b88a0db186eba5
+run_name: upbeat-gull-471
+run_uuid: e9b8017d5257447fa8b88a0db186eba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055073494
+status: 3
+tags: []
+user_id: dj

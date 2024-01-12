@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1e6478b374b348dbbb9a23d03044b3eb/artifacts
+end_time: 1705055085333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e6478b374b348dbbb9a23d03044b3eb
+run_name: loud-quail-608
+run_uuid: 1e6478b374b348dbbb9a23d03044b3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055085239
+status: 3
+tags: []
+user_id: dj

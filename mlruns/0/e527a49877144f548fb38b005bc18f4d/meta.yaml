@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e527a49877144f548fb38b005bc18f4d/artifacts
+end_time: 1705055101928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e527a49877144f548fb38b005bc18f4d
+run_name: melodic-sow-435
+run_uuid: e527a49877144f548fb38b005bc18f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055101869
+status: 3
+tags: []
+user_id: dj

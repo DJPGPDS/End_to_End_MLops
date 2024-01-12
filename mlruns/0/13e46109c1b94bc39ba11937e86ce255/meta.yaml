@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/13e46109c1b94bc39ba11937e86ce255/artifacts
+end_time: 1705055100828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13e46109c1b94bc39ba11937e86ce255
+run_name: glamorous-smelt-50
+run_uuid: 13e46109c1b94bc39ba11937e86ce255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055100739
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6db7670b7b184d7790db97242bc44416/artifacts
+end_time: 1705055104485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6db7670b7b184d7790db97242bc44416
+run_name: casual-gnat-876
+run_uuid: 6db7670b7b184d7790db97242bc44416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055104420
+status: 3
+tags: []
+user_id: dj

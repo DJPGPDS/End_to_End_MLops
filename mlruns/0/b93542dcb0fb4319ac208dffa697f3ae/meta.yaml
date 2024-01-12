@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b93542dcb0fb4319ac208dffa697f3ae/artifacts
+end_time: 1705055070816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b93542dcb0fb4319ac208dffa697f3ae
+run_name: dapper-ray-459
+run_uuid: b93542dcb0fb4319ac208dffa697f3ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055070772
+status: 3
+tags: []
+user_id: dj

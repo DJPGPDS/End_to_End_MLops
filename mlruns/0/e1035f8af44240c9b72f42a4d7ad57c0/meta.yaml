@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e1035f8af44240c9b72f42a4d7ad57c0/artifacts
+end_time: 1705055087561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1035f8af44240c9b72f42a4d7ad57c0
+run_name: tasteful-vole-80
+run_uuid: e1035f8af44240c9b72f42a4d7ad57c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055087484
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/35a885d29ff0495995f0626d2de00a34/artifacts
+end_time: 1705055078036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35a885d29ff0495995f0626d2de00a34
+run_name: industrious-ray-444
+run_uuid: 35a885d29ff0495995f0626d2de00a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055077962
+status: 3
+tags: []
+user_id: dj

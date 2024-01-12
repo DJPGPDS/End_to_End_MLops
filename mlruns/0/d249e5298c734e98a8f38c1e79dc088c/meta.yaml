@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d249e5298c734e98a8f38c1e79dc088c/artifacts
+end_time: 1705055069611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d249e5298c734e98a8f38c1e79dc088c
+run_name: painted-carp-443
+run_uuid: d249e5298c734e98a8f38c1e79dc088c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055069569
+status: 3
+tags: []
+user_id: dj

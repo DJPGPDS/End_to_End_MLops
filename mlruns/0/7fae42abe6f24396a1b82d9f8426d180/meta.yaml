@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7fae42abe6f24396a1b82d9f8426d180/artifacts
+end_time: 1705055095336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fae42abe6f24396a1b82d9f8426d180
+run_name: worried-sloth-890
+run_uuid: 7fae42abe6f24396a1b82d9f8426d180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055095275
+status: 3
+tags: []
+user_id: dj

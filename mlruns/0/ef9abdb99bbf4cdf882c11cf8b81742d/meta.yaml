@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ef9abdb99bbf4cdf882c11cf8b81742d/artifacts
+end_time: 1705055098951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef9abdb99bbf4cdf882c11cf8b81742d
+run_name: placid-wasp-702
+run_uuid: ef9abdb99bbf4cdf882c11cf8b81742d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055098888
+status: 3
+tags: []
+user_id: dj

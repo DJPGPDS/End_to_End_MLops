@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c04c279058f14d92bf0da9624fab1bcb/artifacts
+end_time: 1705055084549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c04c279058f14d92bf0da9624fab1bcb
+run_name: capricious-toad-235
+run_uuid: c04c279058f14d92bf0da9624fab1bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055084466
+status: 3
+tags: []
+user_id: dj

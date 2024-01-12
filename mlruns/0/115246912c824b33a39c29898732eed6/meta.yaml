@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/115246912c824b33a39c29898732eed6/artifacts
+end_time: 1705055074225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 115246912c824b33a39c29898732eed6
+run_name: agreeable-shrew-224
+run_uuid: 115246912c824b33a39c29898732eed6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055074150
+status: 3
+tags: []
+user_id: dj

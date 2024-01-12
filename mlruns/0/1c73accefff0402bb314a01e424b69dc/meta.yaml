@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1c73accefff0402bb314a01e424b69dc/artifacts
+end_time: 1705055096122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c73accefff0402bb314a01e424b69dc
+run_name: bright-goat-990
+run_uuid: 1c73accefff0402bb314a01e424b69dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055096063
+status: 3
+tags: []
+user_id: dj

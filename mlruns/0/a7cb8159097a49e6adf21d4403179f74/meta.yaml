@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a7cb8159097a49e6adf21d4403179f74/artifacts
+end_time: 1705055088645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7cb8159097a49e6adf21d4403179f74
+run_name: bald-tern-943
+run_uuid: a7cb8159097a49e6adf21d4403179f74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055088569
+status: 3
+tags: []
+user_id: dj

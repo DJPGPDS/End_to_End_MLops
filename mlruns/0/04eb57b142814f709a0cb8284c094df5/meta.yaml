@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/04eb57b142814f709a0cb8284c094df5/artifacts
+end_time: 1705055082515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04eb57b142814f709a0cb8284c094df5
+run_name: peaceful-yak-217
+run_uuid: 04eb57b142814f709a0cb8284c094df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055082434
+status: 3
+tags: []
+user_id: dj

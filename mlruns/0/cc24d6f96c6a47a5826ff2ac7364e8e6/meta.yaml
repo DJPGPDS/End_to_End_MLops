@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cc24d6f96c6a47a5826ff2ac7364e8e6/artifacts
+end_time: 1705055105278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc24d6f96c6a47a5826ff2ac7364e8e6
+run_name: kindly-wren-469
+run_uuid: cc24d6f96c6a47a5826ff2ac7364e8e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055105214
+status: 3
+tags: []
+user_id: dj

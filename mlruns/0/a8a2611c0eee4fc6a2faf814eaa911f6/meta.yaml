@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a8a2611c0eee4fc6a2faf814eaa911f6/artifacts
+end_time: 1705055089573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8a2611c0eee4fc6a2faf814eaa911f6
+run_name: skittish-mole-35
+run_uuid: a8a2611c0eee4fc6a2faf814eaa911f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055089488
+status: 3
+tags: []
+user_id: dj

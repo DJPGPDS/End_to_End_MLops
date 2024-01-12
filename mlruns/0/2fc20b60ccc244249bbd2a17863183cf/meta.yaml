@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2fc20b60ccc244249bbd2a17863183cf/artifacts
+end_time: 1705055088222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fc20b60ccc244249bbd2a17863183cf
+run_name: unique-mole-150
+run_uuid: 2fc20b60ccc244249bbd2a17863183cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055088136
+status: 3
+tags: []
+user_id: dj

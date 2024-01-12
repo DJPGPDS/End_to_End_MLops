@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/079e067f77954669b897fc837df3ce48/artifacts
+end_time: 1705055070768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 079e067f77954669b897fc837df3ce48
+run_name: unleashed-goose-701
+run_uuid: 079e067f77954669b897fc837df3ce48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055070723
+status: 3
+tags: []
+user_id: dj

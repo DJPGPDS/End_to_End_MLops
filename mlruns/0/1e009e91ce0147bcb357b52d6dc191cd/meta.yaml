@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1e009e91ce0147bcb357b52d6dc191cd/artifacts
+end_time: 1705055088313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e009e91ce0147bcb357b52d6dc191cd
+run_name: bustling-mole-84
+run_uuid: 1e009e91ce0147bcb357b52d6dc191cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055088226
+status: 3
+tags: []
+user_id: dj

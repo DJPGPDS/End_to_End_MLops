@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1efbf9bcc2564ffcaa149e951def4418/artifacts
+end_time: 1705055100219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1efbf9bcc2564ffcaa149e951def4418
+run_name: gaudy-smelt-140
+run_uuid: 1efbf9bcc2564ffcaa149e951def4418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055100157
+status: 3
+tags: []
+user_id: dj

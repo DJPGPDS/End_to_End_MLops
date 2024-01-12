@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/05c7f94aa0fb4f6babef6d7b951950e5/artifacts
+end_time: 1705055086719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05c7f94aa0fb4f6babef6d7b951950e5
+run_name: adaptable-dove-773
+run_uuid: 05c7f94aa0fb4f6babef6d7b951950e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055086636
+status: 3
+tags: []
+user_id: dj

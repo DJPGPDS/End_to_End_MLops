@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b2d0a07d69e548b99e2b0054402af08e/artifacts
+end_time: 1705055085414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2d0a07d69e548b99e2b0054402af08e
+run_name: peaceful-swan-390
+run_uuid: b2d0a07d69e548b99e2b0054402af08e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055085338
+status: 3
+tags: []
+user_id: dj

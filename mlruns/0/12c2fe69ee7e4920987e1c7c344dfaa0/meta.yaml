@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/12c2fe69ee7e4920987e1c7c344dfaa0/artifacts
+end_time: 1705055097978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12c2fe69ee7e4920987e1c7c344dfaa0
+run_name: chill-moose-802
+run_uuid: 12c2fe69ee7e4920987e1c7c344dfaa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055097904
+status: 3
+tags: []
+user_id: dj

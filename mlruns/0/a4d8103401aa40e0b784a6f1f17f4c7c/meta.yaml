@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a4d8103401aa40e0b784a6f1f17f4c7c/artifacts
+end_time: 1705055092196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4d8103401aa40e0b784a6f1f17f4c7c
+run_name: honorable-newt-576
+run_uuid: a4d8103401aa40e0b784a6f1f17f4c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055092139
+status: 3
+tags: []
+user_id: dj

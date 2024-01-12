@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d19f34c6c4dc4e8bba12f8213acc9d9e/artifacts
+end_time: 1705055076276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d19f34c6c4dc4e8bba12f8213acc9d9e
+run_name: enthused-duck-175
+run_uuid: d19f34c6c4dc4e8bba12f8213acc9d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055076200
+status: 3
+tags: []
+user_id: dj

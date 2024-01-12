@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9352cbcac4af4f5b8091b21375d578f2/artifacts
+end_time: 1705055090957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9352cbcac4af4f5b8091b21375d578f2
+run_name: merciful-zebra-19
+run_uuid: 9352cbcac4af4f5b8091b21375d578f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055090900
+status: 3
+tags: []
+user_id: dj

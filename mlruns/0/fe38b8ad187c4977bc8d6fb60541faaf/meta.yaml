@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe38b8ad187c4977bc8d6fb60541faaf/artifacts
+end_time: 1705055072037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe38b8ad187c4977bc8d6fb60541faaf
+run_name: calm-croc-53
+run_uuid: fe38b8ad187c4977bc8d6fb60541faaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055071999
+status: 3
+tags: []
+user_id: dj

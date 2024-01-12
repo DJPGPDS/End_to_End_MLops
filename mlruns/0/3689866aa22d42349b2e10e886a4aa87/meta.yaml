@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3689866aa22d42349b2e10e886a4aa87/artifacts
+end_time: 1705055093050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3689866aa22d42349b2e10e886a4aa87
+run_name: respected-asp-253
+run_uuid: 3689866aa22d42349b2e10e886a4aa87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055092994
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ce3d182fd8f24482b52939346b9539a4/artifacts
+end_time: 1705055096850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce3d182fd8f24482b52939346b9539a4
+run_name: adaptable-shad-287
+run_uuid: ce3d182fd8f24482b52939346b9539a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055096812
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2850e47e64fc43f686f0c25720b345e1/artifacts
+end_time: 1705055095930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2850e47e64fc43f686f0c25720b345e1
+run_name: nervous-shrimp-397
+run_uuid: 2850e47e64fc43f686f0c25720b345e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055095869
+status: 3
+tags: []
+user_id: dj

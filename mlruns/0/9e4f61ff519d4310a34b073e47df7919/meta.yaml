@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9e4f61ff519d4310a34b073e47df7919/artifacts
+end_time: 1705055096384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e4f61ff519d4310a34b073e47df7919
+run_name: blushing-pug-302
+run_uuid: 9e4f61ff519d4310a34b073e47df7919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055096319
+status: 3
+tags: []
+user_id: dj

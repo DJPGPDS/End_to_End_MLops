@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5e8844b07a54468c894ea7c2bbb1849a/artifacts
+end_time: 1705055097579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e8844b07a54468c894ea7c2bbb1849a
+run_name: agreeable-pig-186
+run_uuid: 5e8844b07a54468c894ea7c2bbb1849a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055097508
+status: 3
+tags: []
+user_id: dj

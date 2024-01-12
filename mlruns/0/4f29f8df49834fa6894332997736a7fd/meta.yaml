@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4f29f8df49834fa6894332997736a7fd/artifacts
+end_time: 1705055099876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f29f8df49834fa6894332997736a7fd
+run_name: sedate-robin-406
+run_uuid: 4f29f8df49834fa6894332997736a7fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055099813
+status: 3
+tags: []
+user_id: dj

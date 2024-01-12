@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/191b4e97d3904ccfaf5f2e3ef0f75c59/artifacts
+end_time: 1705055071995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 191b4e97d3904ccfaf5f2e3ef0f75c59
+run_name: able-trout-159
+run_uuid: 191b4e97d3904ccfaf5f2e3ef0f75c59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055071955
+status: 3
+tags: []
+user_id: dj

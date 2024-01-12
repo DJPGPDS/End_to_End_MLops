@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aa44bc3fa6b546398937d166dd8a71cf/artifacts
+end_time: 1705055097185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa44bc3fa6b546398937d166dd8a71cf
+run_name: youthful-sloth-342
+run_uuid: aa44bc3fa6b546398937d166dd8a71cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055097118
+status: 3
+tags: []
+user_id: dj

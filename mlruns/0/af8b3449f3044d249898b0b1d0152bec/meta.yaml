@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/af8b3449f3044d249898b0b1d0152bec/artifacts
+end_time: 1705055075507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af8b3449f3044d249898b0b1d0152bec
+run_name: mercurial-mole-674
+run_uuid: af8b3449f3044d249898b0b1d0152bec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055075427
+status: 3
+tags: []
+user_id: dj

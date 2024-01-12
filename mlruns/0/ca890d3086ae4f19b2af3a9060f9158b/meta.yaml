@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ca890d3086ae4f19b2af3a9060f9158b/artifacts
+end_time: 1705055095540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca890d3086ae4f19b2af3a9060f9158b
+run_name: trusting-pig-970
+run_uuid: ca890d3086ae4f19b2af3a9060f9158b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055095483
+status: 3
+tags: []
+user_id: dj

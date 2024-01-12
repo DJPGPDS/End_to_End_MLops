@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4f1eb6167bd244b0a22d884eeb6d1aea/artifacts
+end_time: 1705055069674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f1eb6167bd244b0a22d884eeb6d1aea
+run_name: dashing-fox-780
+run_uuid: 4f1eb6167bd244b0a22d884eeb6d1aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055069648
+status: 3
+tags: []
+user_id: dj

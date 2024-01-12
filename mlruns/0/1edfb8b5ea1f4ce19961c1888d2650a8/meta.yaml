@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1edfb8b5ea1f4ce19961c1888d2650a8/artifacts
+end_time: 1705055092928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1edfb8b5ea1f4ce19961c1888d2650a8
+run_name: shivering-mouse-48
+run_uuid: 1edfb8b5ea1f4ce19961c1888d2650a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055092871
+status: 3
+tags: []
+user_id: dj

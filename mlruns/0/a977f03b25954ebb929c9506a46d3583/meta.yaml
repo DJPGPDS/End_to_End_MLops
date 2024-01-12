@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a977f03b25954ebb929c9506a46d3583/artifacts
+end_time: 1705055095865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a977f03b25954ebb929c9506a46d3583
+run_name: bouncy-hen-497
+run_uuid: a977f03b25954ebb929c9506a46d3583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055095796
+status: 3
+tags: []
+user_id: dj

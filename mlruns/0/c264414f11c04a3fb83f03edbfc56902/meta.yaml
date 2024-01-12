@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c264414f11c04a3fb83f03edbfc56902/artifacts
+end_time: 1705055076096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c264414f11c04a3fb83f03edbfc56902
+run_name: sincere-shoat-430
+run_uuid: c264414f11c04a3fb83f03edbfc56902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055076021
+status: 3
+tags: []
+user_id: dj

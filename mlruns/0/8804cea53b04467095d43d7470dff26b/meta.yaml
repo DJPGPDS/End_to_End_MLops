@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8804cea53b04467095d43d7470dff26b/artifacts
+end_time: 1705055080291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8804cea53b04467095d43d7470dff26b
+run_name: flawless-pug-240
+run_uuid: 8804cea53b04467095d43d7470dff26b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055080186
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3ffb42c08b7c4667b13ba96c8724624a/artifacts
+end_time: 1705055093545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ffb42c08b7c4667b13ba96c8724624a
+run_name: casual-lamb-196
+run_uuid: 3ffb42c08b7c4667b13ba96c8724624a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055093491
+status: 3
+tags: []
+user_id: dj

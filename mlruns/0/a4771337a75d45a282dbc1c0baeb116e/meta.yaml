@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a4771337a75d45a282dbc1c0baeb116e/artifacts
+end_time: 1705055073093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4771337a75d45a282dbc1c0baeb116e
+run_name: casual-pug-127
+run_uuid: a4771337a75d45a282dbc1c0baeb116e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055073019
+status: 3
+tags: []
+user_id: dj

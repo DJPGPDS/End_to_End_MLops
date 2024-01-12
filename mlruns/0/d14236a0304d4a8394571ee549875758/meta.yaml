@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d14236a0304d4a8394571ee549875758/artifacts
+end_time: 1705055099407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d14236a0304d4a8394571ee549875758
+run_name: placid-mink-264
+run_uuid: d14236a0304d4a8394571ee549875758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055099345
+status: 3
+tags: []
+user_id: dj

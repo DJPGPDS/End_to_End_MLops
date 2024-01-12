@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d32187a21360457c9cdf3b4fece6a466/artifacts
+end_time: 1705055085570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d32187a21360457c9cdf3b4fece6a466
+run_name: judicious-lynx-354
+run_uuid: d32187a21360457c9cdf3b4fece6a466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055085495
+status: 3
+tags: []
+user_id: dj

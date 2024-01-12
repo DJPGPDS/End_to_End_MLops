@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/98347394f87b425283b6f36eb5d2c1cc/artifacts
+end_time: 1705055079580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98347394f87b425283b6f36eb5d2c1cc
+run_name: illustrious-ox-196
+run_uuid: 98347394f87b425283b6f36eb5d2c1cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055079506
+status: 3
+tags: []
+user_id: dj

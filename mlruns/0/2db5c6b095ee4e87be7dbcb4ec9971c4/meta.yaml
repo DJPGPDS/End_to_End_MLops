@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2db5c6b095ee4e87be7dbcb4ec9971c4/artifacts
+end_time: 1705055094695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2db5c6b095ee4e87be7dbcb4ec9971c4
+run_name: learned-penguin-366
+run_uuid: 2db5c6b095ee4e87be7dbcb4ec9971c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055094620
+status: 3
+tags: []
+user_id: dj

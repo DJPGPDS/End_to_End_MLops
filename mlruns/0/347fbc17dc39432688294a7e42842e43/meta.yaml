@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/347fbc17dc39432688294a7e42842e43/artifacts
+end_time: 1705055089896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 347fbc17dc39432688294a7e42842e43
+run_name: bald-rook-26
+run_uuid: 347fbc17dc39432688294a7e42842e43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055089820
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7e34c173a2414ce29a9d2888fc51adc3/artifacts
+end_time: 1705055072594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e34c173a2414ce29a9d2888fc51adc3
+run_name: beautiful-shrew-894
+run_uuid: 7e34c173a2414ce29a9d2888fc51adc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055072523
+status: 3
+tags: []
+user_id: dj

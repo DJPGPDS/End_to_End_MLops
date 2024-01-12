@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6b6e7daf3e2d405e88cf8ec7174ea585/artifacts
+end_time: 1705055084630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b6e7daf3e2d405e88cf8ec7174ea585
+run_name: casual-bat-445
+run_uuid: 6b6e7daf3e2d405e88cf8ec7174ea585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055084553
+status: 3
+tags: []
+user_id: dj

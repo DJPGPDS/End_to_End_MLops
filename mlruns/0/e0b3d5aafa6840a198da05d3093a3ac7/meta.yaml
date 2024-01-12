@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e0b3d5aafa6840a198da05d3093a3ac7/artifacts
+end_time: 1705055089976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0b3d5aafa6840a198da05d3093a3ac7
+run_name: bustling-fish-30
+run_uuid: e0b3d5aafa6840a198da05d3093a3ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055089901
+status: 3
+tags: []
+user_id: dj

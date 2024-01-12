@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3f2432dc2b7240629d0dfb951e7755ef/artifacts
+end_time: 1705055096807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f2432dc2b7240629d0dfb951e7755ef
+run_name: orderly-croc-404
+run_uuid: 3f2432dc2b7240629d0dfb951e7755ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055096742
+status: 3
+tags: []
+user_id: dj

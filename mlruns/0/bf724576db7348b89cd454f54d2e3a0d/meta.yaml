@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bf724576db7348b89cd454f54d2e3a0d/artifacts
+end_time: 1705055082348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf724576db7348b89cd454f54d2e3a0d
+run_name: classy-bug-526
+run_uuid: bf724576db7348b89cd454f54d2e3a0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055082253
+status: 3
+tags: []
+user_id: dj

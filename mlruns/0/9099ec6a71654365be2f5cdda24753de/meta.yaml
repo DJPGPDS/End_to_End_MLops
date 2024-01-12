@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9099ec6a71654365be2f5cdda24753de/artifacts
+end_time: 1705055092730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9099ec6a71654365be2f5cdda24753de
+run_name: hilarious-lynx-452
+run_uuid: 9099ec6a71654365be2f5cdda24753de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055092653
+status: 3
+tags: []
+user_id: dj

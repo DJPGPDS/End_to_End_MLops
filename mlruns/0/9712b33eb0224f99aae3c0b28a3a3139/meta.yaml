@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9712b33eb0224f99aae3c0b28a3a3139/artifacts
+end_time: 1705055090489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9712b33eb0224f99aae3c0b28a3a3139
+run_name: smiling-skink-786
+run_uuid: 9712b33eb0224f99aae3c0b28a3a3139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055090391
+status: 3
+tags: []
+user_id: dj

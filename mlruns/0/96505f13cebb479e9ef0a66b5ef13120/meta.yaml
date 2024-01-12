@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/96505f13cebb479e9ef0a66b5ef13120/artifacts
+end_time: 1705055069883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96505f13cebb479e9ef0a66b5ef13120
+run_name: treasured-shrimp-895
+run_uuid: 96505f13cebb479e9ef0a66b5ef13120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055069856
+status: 3
+tags: []
+user_id: dj

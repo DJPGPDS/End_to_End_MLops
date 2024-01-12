@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e03df3473ea14e6eb481431dd0d9941a/artifacts
+end_time: 1705055089229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e03df3473ea14e6eb481431dd0d9941a
+run_name: tasteful-grouse-117
+run_uuid: e03df3473ea14e6eb481431dd0d9941a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055089144
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4a46821031764a72bd2a2d39e00d1d39/artifacts
+end_time: 1705055083593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a46821031764a72bd2a2d39e00d1d39
+run_name: enthused-loon-493
+run_uuid: 4a46821031764a72bd2a2d39e00d1d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055083517
+status: 3
+tags: []
+user_id: dj

@@ -1,6 +1,6 @@
-artifact_location: file:///D:/praxis/Term%202/mlops/end%20to%20end%20mlops/end_to_end_mlops_project/End_to_End_MLops/mlruns/0
-creation_time: 1704975415305
+artifact_location: mlflow-artifacts:/0
+creation_time: 1705054796519
 experiment_id: '0'
-last_update_time: 1704975415305
+last_update_time: 1705054796519
 lifecycle_stage: active
 name: Default

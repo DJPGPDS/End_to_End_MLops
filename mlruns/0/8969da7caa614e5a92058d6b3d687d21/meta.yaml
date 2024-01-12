@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8969da7caa614e5a92058d6b3d687d21/artifacts
+end_time: 1705055103891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8969da7caa614e5a92058d6b3d687d21
+run_name: amazing-calf-693
+run_uuid: 8969da7caa614e5a92058d6b3d687d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055103829
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2a261a39e92e4666b490b6defac8acc7/artifacts
+end_time: 1705055083404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a261a39e92e4666b490b6defac8acc7
+run_name: vaunted-rook-599
+run_uuid: 2a261a39e92e4666b490b6defac8acc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055083317
+status: 3
+tags: []
+user_id: dj

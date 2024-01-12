@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8c9a423c8b6b4bc59ccc3d741c6ff607/artifacts
+end_time: 1705055099737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c9a423c8b6b4bc59ccc3d741c6ff607
+run_name: polite-auk-999
+run_uuid: 8c9a423c8b6b4bc59ccc3d741c6ff607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055099677
+status: 3
+tags: []
+user_id: dj

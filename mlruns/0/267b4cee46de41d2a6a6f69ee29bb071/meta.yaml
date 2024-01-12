@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/267b4cee46de41d2a6a6f69ee29bb071/artifacts
+end_time: 1705055074811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 267b4cee46de41d2a6a6f69ee29bb071
+run_name: enthused-sloth-763
+run_uuid: 267b4cee46de41d2a6a6f69ee29bb071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055074751
+status: 3
+tags: []
+user_id: dj

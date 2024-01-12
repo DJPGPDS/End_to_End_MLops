@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e2a8166c143641c6b91fa7500f615196/artifacts
+end_time: 1705055070630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2a8166c143641c6b91fa7500f615196
+run_name: auspicious-zebra-579
+run_uuid: e2a8166c143641c6b91fa7500f615196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055070578
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/591af0b98581447d9b5fe81011369572/artifacts
+end_time: 1705055075705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 591af0b98581447d9b5fe81011369572
+run_name: learned-hare-599
+run_uuid: 591af0b98581447d9b5fe81011369572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055075607
+status: 3
+tags: []
+user_id: dj

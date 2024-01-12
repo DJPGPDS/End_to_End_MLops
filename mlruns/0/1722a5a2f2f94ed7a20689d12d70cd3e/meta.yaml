@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1722a5a2f2f94ed7a20689d12d70cd3e/artifacts
+end_time: 1705055076889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1722a5a2f2f94ed7a20689d12d70cd3e
+run_name: calm-elk-247
+run_uuid: 1722a5a2f2f94ed7a20689d12d70cd3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055076814
+status: 3
+tags: []
+user_id: dj

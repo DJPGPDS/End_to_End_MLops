@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2b4a3637ae0c4e38bd2793e89a3711ae/artifacts
+end_time: 1705055090896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b4a3637ae0c4e38bd2793e89a3711ae
+run_name: bold-goose-821
+run_uuid: 2b4a3637ae0c4e38bd2793e89a3711ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055090842
+status: 3
+tags: []
+user_id: dj

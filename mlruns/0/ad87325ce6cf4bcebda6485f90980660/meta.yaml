@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ad87325ce6cf4bcebda6485f90980660/artifacts
+end_time: 1705055092085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad87325ce6cf4bcebda6485f90980660
+run_name: amusing-crane-531
+run_uuid: ad87325ce6cf4bcebda6485f90980660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055092036
+status: 3
+tags: []
+user_id: dj

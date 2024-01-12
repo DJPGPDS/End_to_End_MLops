@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5d9a9216d3414f3380ecb851c93397af/artifacts
+end_time: 1705055100014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d9a9216d3414f3380ecb851c93397af
+run_name: loud-crow-588
+run_uuid: 5d9a9216d3414f3380ecb851c93397af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055099949
+status: 3
+tags: []
+user_id: dj

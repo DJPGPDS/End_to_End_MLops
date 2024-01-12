@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0af2a9c4c94a4b02be85b75a87458a10/artifacts
+end_time: 1705055085851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0af2a9c4c94a4b02be85b75a87458a10
+run_name: melodic-fowl-638
+run_uuid: 0af2a9c4c94a4b02be85b75a87458a10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055085747
+status: 3
+tags: []
+user_id: dj

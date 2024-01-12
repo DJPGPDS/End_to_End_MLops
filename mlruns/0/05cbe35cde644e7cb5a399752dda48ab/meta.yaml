@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/05cbe35cde644e7cb5a399752dda48ab/artifacts
+end_time: 1705055096902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05cbe35cde644e7cb5a399752dda48ab
+run_name: capable-bat-131
+run_uuid: 05cbe35cde644e7cb5a399752dda48ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055096854
+status: 3
+tags: []
+user_id: dj

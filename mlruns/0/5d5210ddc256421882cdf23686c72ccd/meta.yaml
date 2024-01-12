@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5d5210ddc256421882cdf23686c72ccd/artifacts
+end_time: 1705055069940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d5210ddc256421882cdf23686c72ccd
+run_name: melodic-ant-175
+run_uuid: 5d5210ddc256421882cdf23686c72ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055069887
+status: 3
+tags: []
+user_id: dj

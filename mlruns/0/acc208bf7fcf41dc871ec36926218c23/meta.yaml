@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/acc208bf7fcf41dc871ec36926218c23/artifacts
+end_time: 1705055102019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acc208bf7fcf41dc871ec36926218c23
+run_name: overjoyed-grouse-453
+run_uuid: acc208bf7fcf41dc871ec36926218c23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055101933
+status: 3
+tags: []
+user_id: dj

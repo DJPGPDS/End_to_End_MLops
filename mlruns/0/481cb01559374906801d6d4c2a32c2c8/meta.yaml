@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/481cb01559374906801d6d4c2a32c2c8/artifacts
+end_time: 1705055087959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 481cb01559374906801d6d4c2a32c2c8
+run_name: able-steed-193
+run_uuid: 481cb01559374906801d6d4c2a32c2c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705055087873
+status: 3
+tags: []
+user_id: dj
