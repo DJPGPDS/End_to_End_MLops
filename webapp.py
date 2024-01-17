@@ -3,6 +3,7 @@ import pandas as pd
 import pickle
 import numpy as np
 import math
+from PIL import Image
 
 with open('preprocess.pkl', 'rb') as f:
     pre = pickle.load(f)
@@ -10,7 +11,22 @@ with open('preprocess.pkl', 'rb') as f:
 with open('xg.pkl','rb') as file:
     model = pickle.load(file)
 
-st.header('App for user predictions for Scooter Rental platform')
+im = Image.open('logo.png')
+
+st.set_page_config(layout="wide")
+
+
+st.title("Empower Your Ride")
+st.subheader("User Predictions Platform for Scooter Rentals Online")
+
+st.divider()
+
+# st.header('App for user predictions for Scooter Rental platform')
+with st.sidebar:
+    new_image = im.resize((300, 200))
+    st.image(new_image)
+    st.title("Please select input parameters to get no. of users")
+    st.divider()
 
 def user_input_features():
     hr = st.sidebar.slider('Hour of Day', 0, 24, 12)
@@ -40,13 +56,16 @@ log_prediction = model.predict(df_tf)
 result = int(2.71828**log_prediction)
 
 
-if st.checkbox('Show dataset'):
-    st.write('### Scooter rental dataset')
-    if st.checkbox('Show transformed dataset'):
-        st.write(df_tf)
-    elif st.checkbox('Show original dataset'):
-        st.write(df)
+# if st.checkbox('Show dataset'):
+st.write('#### Scooter rental dataset')
+st.write(df)
+    # if st.checkbox('Show transformed dataset'):
+    #     st.write(df_tf)
+    # elif st.checkbox('Show original dataset'):
+    #     st.write(df)
         
 
 st.subheader('Users Prediction')
-st.write(result)
+if st.button('Predict'): 
+    st.subheader("Number of users is")
+    st.subheader(result)
